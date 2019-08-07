@@ -19,6 +19,8 @@ def preprocessing(filename):
     return tokenized_sentences
 
 
+
+# preprocess corpora 
 bg_sent = preprocessing('corpora/corpus.bg')
 de_sent = preprocessing('corpora/corpus.de')
 el_sent = preprocessing('corpora/corpus.el')
