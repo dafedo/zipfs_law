@@ -18,3 +18,11 @@ Word distribution Zipf's plots
 Character distribution Zipf's plots 
 
 ![Zipf's plots for character-level](zipfs_char.png) 
+
+Zipf's Least Effort Principle reflected in word lengths and Frequency 
+
+ Average Word Lengths of Most Frequent Words vs Random Words          
+|-------------------------------------------------------------|--------|-------|---------|--------|---------|
+| Bulgarian                                                   | German | Greek | Finnish | French | Maltese |
+| 1.6                                                         | 3.0    | 2.7   | 4.5     | 2.1    | 3.1     |
+| 12.4                                                        | 13.2   | 10.0  | 13.6    | 10.3   | 7.8     |
