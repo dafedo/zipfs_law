@@ -1,5 +1,3 @@
-from typing import Dict, List, Any
-
 import matplotlib.pyplot as plt
 from collections import Counter
 import pandas as pd
