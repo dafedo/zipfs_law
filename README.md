@@ -12,14 +12,18 @@ To run the code
 
 The program will produce the following plots 
 
+
+
 **Word distribution Zipf's plots**
 
 ![Zipf's plots for word-level](zipfs_plots.png) 
 
 
+
 **Character distribution Zipf's plots** 
 
 ![Zipf's plots for character-level](zipfs_char.png) 
+
 
 
 Zipf's Least Effort Principle reflected in word lengths and frequency 
